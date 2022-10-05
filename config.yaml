@@ -1,0 +1,26 @@
+baseURL: 'https://beatboxerish.github.io'
+languageCode: 'en-us'
+title: 'Home of Ish'
+theme: "papermod"
+params:
+    profileMode:
+        enabled: true
+        title: "Me" # optional default will be site title
+        subtitle: "And What I Do..."
+        imageUrl: 'ish_diff_pics.gif'
+        imageTitle: "Image of yours truly"
+        imageWidth: 300 # custom size
+        imageHeight: 300 # custom size
+        buttons:
+            - name: About Me
+              url: "/posts/about-me"
+            - name: Resume
+              url: "Short_Resume.pdf"
+            - name: Enter The Matrix
+              url: "/archives"
+    socialIcons:
+      - name: "Linkedin"
+        url: "https://www.linkedin.com/in/ishan-nangia-413571114/"
+      - name: "Github"
+        url: "https://github.com/beatboxerish"
+    defaultTheme: 'auto'
