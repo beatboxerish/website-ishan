@@ -12,8 +12,8 @@ learning a new skill, socializing, and clearing my thoughts. All of these are ex
 important needs of mine that I need to give time to whenever and wherever to function
 productively. dkjd
 
-| Lonely in Bangalore                                                                                        | Lonely in Smokey Bangalore in Comic Book Style Black and White                                                                                    |
-|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Using https://huggingface.co/spaces/stabilityai/stable-diffusion ](../lonely in bangalore.jpeg)          | ![Using https://huggingface.co/spaces/stabilityai/stable-diffusion ](../lonely in smokey Bangalore in comic book style black and white.jpeg)      |
+| Lonely in Bangalore                                                                                     | Lonely in Smokey Bangalore in Comic Book Style Black and White                                                                                  |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Using https://huggingface.co/spaces/stabilityai/stable-diffusion ](lonely in bangalore.jpeg)          | ![Using https://huggingface.co/spaces/stabilityai/stable-diffusion ](../../lonely in smokey Bangalore in comic book style black and white.jpeg) |
 
 
