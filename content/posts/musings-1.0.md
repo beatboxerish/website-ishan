@@ -1,7 +1,7 @@
 ---
 title: "Musings 1.0"
 date: 2022-10-05T16:49:36+05:30
-draft: true
+draft: false
 ---
 
 Recently, I have been feeling a little lonely. A little alone in this beautiful 
