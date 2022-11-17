@@ -16,8 +16,8 @@ params:
               url: "/posts/about-me"
             - name: Resume
               url: "Short_Resume.pdf"
-            - name: Enter The Matrix
-              url: "/archives"
+            - name: All Posts
+              url: "/posts"
     socialIcons:
       - name: "Linkedin"
         url: "https://www.linkedin.com/in/ishan-nangia-413571114/"
