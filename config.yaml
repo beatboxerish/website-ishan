@@ -1,4 +1,4 @@
-baseURL: 'https://beatboxerish.github.io'
+baseURL: 'https://beatboxerish.github.io/website-ishan/'
 languageCode: 'en-us'
 title: 'Home of Ish'
 theme: "papermod"
@@ -13,13 +13,13 @@ params:
         imageHeight: 500 # custom size
         buttons:
             - name: About Me
-              url: "/posts/about-me-03-24"
+              url: "posts/about-me-03-24"
             - name: Resume
               url: "Short_Resume.pdf"
             - name: All Posts
-              url: "/posts"
+              url: "posts"
             - name: Writings on the Web
-              url: "/posts/writings-on-the-web"
+              url: "posts/writings-on-the-web"
     socialIcons:
       - name: "linkedin"
         url: "https://www.linkedin.com/in/ishan-nangia-413571114/"
