@@ -5,22 +5,26 @@ theme: "papermod"
 params:
     profileMode:
         enabled: true
-        title: "Me" # optional default will be site title
-        subtitle: "And What I Do..."
-        imageUrl: 'ish_diff_pics.gif'
-        imageTitle: "Image of yours truly"
-        imageWidth: 300 # custom size
-        imageHeight: 300 # custom size
+        title: "Hello there..." # optional default will be site title
+        subtitle: "This tiny space is about me and my perspectives ^_^"
+        imageUrl: 'ishan_gif.gif'
+        imageTitle: "Images of yours truly"
+        imageWidth: 500 # custom size
+        imageHeight: 500 # custom size
         buttons:
             - name: About Me
-              url: "/posts/about-me"
+              url: "/posts/about-me-03-24"
             - name: Resume
               url: "Short_Resume.pdf"
             - name: All Posts
               url: "/posts"
+            - name: Writings on the Web
+              url: "/posts/writings-on-the-web"
     socialIcons:
-      - name: "Linkedin"
+      - name: "linkedin"
         url: "https://www.linkedin.com/in/ishan-nangia-413571114/"
-      - name: "Github"
+      - name: "github"
         url: "https://github.com/beatboxerish"
+      - name: "instagram"
+        url: "https://www.instagram.com/beatboxerish/"
     defaultTheme: 'auto'
