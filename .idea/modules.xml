@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../beatboxerish.github.io/.idea/beatboxerish.github.io.iml" filepath="$PROJECT_DIR$/../beatboxerish.github.io/.idea/beatboxerish.github.io.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/quickstart.iml" filepath="$PROJECT_DIR$/.idea/quickstart.iml" />
     </modules>
   </component>
