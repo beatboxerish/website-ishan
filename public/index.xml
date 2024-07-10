@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home of Ish</title>
+    <link>https://beatboxerish.github.io/</link>
+    <description>Recent content on Home of Ish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2022 19:09:25 +0530</lastBuildDate><atom:link href="https://beatboxerish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Musings@Loneliness</title>
+      <link>https://beatboxerish.github.io/posts/musings-1.0/</link>
+      <pubDate>Wed, 05 Oct 2022 16:49:36 +0530</pubDate>
+      
+      <guid>https://beatboxerish.github.io/posts/musings-1.0/</guid>
+      <description>Recently, I have been feeling a little lonely. A little alone in this beautiful city called Bangalore. Down with viral, there&amp;rsquo;s not much that I can do apart from limited eating outside, limited physical activity, and limited social energy.
+On any normal day, badminton would be my go-to activity. I would end up exercising, learning a new skill, socializing, and clearing my thoughts. All of these are extremely important needs that I need to give time to whenever and wherever to function productively.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://beatboxerish.github.io/posts/about-me/</link>
+      <pubDate>Sat, 24 Sep 2022 16:23:06 +0530</pubDate>
+      
+      <guid>https://beatboxerish.github.io/posts/about-me/</guid>
+      <description>Hello there&amp;hellip;
+As this world become crazier, messier, and increasingly distant, I have decided to find and establish my place in it through this website. It took me a while to finally work a little and create a home for my digital self but thanks to Hugo, someone has a new place for themselves that they might grow to like and call home.
+My journey to where I am on 2022-09-25 has been a fun yet tortuous branch of your typical Indian upper middle class trajectory.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
